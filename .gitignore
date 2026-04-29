@@ -6,6 +6,8 @@ harfModel/iskelet_goruntuleri_filtreli_128
 kelimeModel/verisetiHam
 kelimeModel/X_data.npy
 kelimeModel/y_data.npy
-X_data_mesafe_norm.npy
+kelimeModel/X_data_mesafe_norm.npy
+kelimeModel/X_data_augmented.npy   
+kelimeModel/y_data_augmented.npy  
 
 .venv
