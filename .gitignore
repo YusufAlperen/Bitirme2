@@ -1,4 +1,10 @@
 harfModel/verisetiHam
+harfModel/hand_landmarks_dataset_double.csv
+harfModel/landmark_verilerim_filtrelenmis.csv
+harfModel/iskelet_goruntuleri_filtreli_128
+
 kelimeModel/verisetiHam
+kelimeModel/X_data.npy
+kelimeModel/y_data.npy
 
 .venv
