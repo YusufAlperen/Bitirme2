@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_sign_to_text"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="İşaret → Yazı" />
+
+    <item
+        android:id="@+id/nav_text_to_sign"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Yazı → İşaret" />
+
+</menu>
